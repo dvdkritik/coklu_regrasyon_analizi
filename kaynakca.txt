@@ -1,0 +1,7 @@
+https://www.kaggle.com/colecola/3-farkl-algoritma-ile-ev-fiyatlar-tahmini-emlak
+
+
+https://harun-demir.com/2018/03/28/python-uzerinde-ridge-regresyon-issizlik-orani-tahminleme/
+
+
+http://canererden.com/2020/04/07/python-ile-coklu-regresyon-uygulamasi/
